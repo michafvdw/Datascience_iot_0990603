@@ -25,4 +25,8 @@ In the images below is showed how you wire the bluefruit LE and the TSL 2591 to 
 ![alt text](https://user-images.githubusercontent.com/74900539/115711003-4b033500-a373-11eb-9d3b-0ef1d89e1c1b.png)
 
 ### Install libraries for the TSL 2591
-link: [Go to Heading section] (www.google.com)
+link: https://learn.adafruit.com/adafruit-tsl2591/wiring-and-test
+
+### Install libraries for the bluefruit LE
+Link: https://learn.adafruit.com/adafruit-flora-bluefruit-le/installing-software
+
