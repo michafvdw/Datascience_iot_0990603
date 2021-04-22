@@ -7,3 +7,13 @@ This projet measures lux with the TSL 2591 sensor. The data will be send to the 
 Lux is the SI derived unit of illuminance, measuring luminous flux per unit area. It is used to measure the intensity (as perceived by the human eye) of light that hits or passes a surface. In other words, the TSL 2591 measures the light intensity in a room. 
 
 *Retrieved from: https://en.wikipedia.org/wiki/Lux*
+
+## How to build this project
+### Hardware
+-Flora microcontroller
+-TSL 2591
+-Bluefruit LE
+
+###software
+-Arduino IDE
+-BluefruitConnect app on your phone (preferably ios)
