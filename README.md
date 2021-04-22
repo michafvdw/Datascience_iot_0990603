@@ -30,3 +30,9 @@ link: https://learn.adafruit.com/adafruit-tsl2591/wiring-and-test
 ### Install libraries for the bluefruit LE
 Link: https://learn.adafruit.com/adafruit-flora-bluefruit-le/installing-software
 
+### Download BluefruitConnect app
+Download the BluefruitConnect app on your phone. You can find this in the ios app store. If you are unsure how to use the app use this link: https://learn.adafruit.com/bluefruit-le-connect
+
+### Download code from this repository 
+Besides the libraries you need the code main.ino and BluefruitConfig.h to test this project. They can be found in this repository. Make sure to use this BluefruitConfig.h and not the one from the adafruit library because this one was written specifically for the floram without the project wont work. 
+
