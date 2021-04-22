@@ -21,6 +21,6 @@ Lux is the SI derived unit of illuminance, measuring luminous flux per unit area
 ### Wiring
 In the images below is showed how you wire the bluefruit LE and the TSL 2591 to your flora
 
-![alt text](https://user-images.githubusercontent.com/74900539/115710946-3cb51900-a373-11eb-92dd-88ff8ed1b3c5.png)
-![alt text](https://user-images.githubusercontent.com/74900539/115711003-4b033500-a373-11eb-9d3b-0ef1d89e1c1b.png)
+![alt text](https://user-images.githubusercontent.com/74900539/115710946-3cb51900-a373-11eb-92dd-88ff8ed1b3c5.png =250x250)
+![alt text](https://user-images.githubusercontent.com/74900539/115711003-4b033500-a373-11eb-9d3b-0ef1d89e1c1b.png =250x250)
 
