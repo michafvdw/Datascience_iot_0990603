@@ -10,10 +10,10 @@ Lux is the SI derived unit of illuminance, measuring luminous flux per unit area
 
 ## How to build this project
 ### Hardware
--Flora microcontroller
--TSL 2591
--Bluefruit LE
+- Flora microcontroller
+- TSL 2591
+- Bluefruit LE
 
-###software
+### software
 -Arduino IDE
 -BluefruitConnect app on your phone (preferably ios)
